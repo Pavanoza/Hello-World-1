@@ -51,7 +51,7 @@ C is a high-level and general-purpose programming language that is ideal for dev
 
 - [x] **C#**
 
-C# is a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a standard by Ecma and ISO.
+C# is a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a Standard by Ecma and ISO.
 
 - [x] **C++**
 
